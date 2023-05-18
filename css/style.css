@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 50%;
+}
+
+body {
+  background-color: #f6f6f6;
+}
+
+.main {
+  width: 160rem;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 24.75rem;
+  height: 4.056rem;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8.75rem 39.875rem;
+  width: 86.706rem;
+  height: 4.158rem;
+}
+
+.search-select {
+  width: 8.631rem;
+  height: 4.158rem;
+}
+
+.search-input {
+  height: 4.158rem;
+}
